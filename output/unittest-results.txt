@@ -1,0 +1,37 @@
+test_equivalent_mass_and_molar_inputs (test_engine.ConversionTests.test_equivalent_mass_and_molar_inputs) ... ok
+test_mass_requires_positive_mw (test_engine.ConversionTests.test_mass_requires_positive_mw) ... ok
+test_molar_prefixes_are_case_sensitive (test_engine.ConversionTests.test_molar_prefixes_are_case_sensitive) ... ok
+test_nonfinite_negative_and_overflow (test_engine.ConversionTests.test_nonfinite_negative_and_overflow) ... ok
+test_rejects_ambiguous_and_unsupported_units (test_engine.ConversionTests.test_rejects_ambiguous_and_unsupported_units) ... ok
+test_units_with_independently_known_answers (test_engine.ConversionTests.test_units_with_independently_known_answers) ... ok
+test_bad_headers_and_shapes (test_engine.ImportTests.test_bad_headers_and_shapes) ... ok
+test_bom_quotes_newlines_and_extra_fields_preserved (test_engine.ImportTests.test_bom_quotes_newlines_and_extra_fields_preserved) ... ok
+test_size_and_row_limits (test_engine.ImportTests.test_size_and_row_limits) ... ok
+test_csv_export_escapes_formulas_and_preserves_numeric_log (test_engine.ReviewTests.test_csv_export_escapes_formulas_and_preserves_numeric_log) ... ok
+test_demo_expected_scenarios (test_engine.ReviewTests.test_demo_expected_scenarios) ... ok
+test_different_compounds_not_compared (test_engine.ReviewTests.test_different_compounds_not_compared) ... ok
+test_disagreement_only_under_same_complete_context (test_engine.ReviewTests.test_disagreement_only_under_same_complete_context) ... ok
+test_duplicate_does_not_delete_evidence (test_engine.ReviewTests.test_duplicate_does_not_delete_evidence) ... ok
+test_every_condition_difference_prevents_conflict (test_engine.ReviewTests.test_every_condition_difference_prevents_conflict) ... ok
+test_exact_threshold_is_not_disagreement (test_engine.ReviewTests.test_exact_threshold_is_not_disagreement) ... ok
+test_fingerprint_changes_only_with_input_not_decision (test_engine.ReviewTests.test_fingerprint_changes_only_with_input_not_decision) ... ok
+test_invalid_conditions_prevent_comparison (test_engine.ReviewTests.test_invalid_conditions_prevent_comparison) ... ok
+test_invalid_threshold_and_row_types (test_engine.ReviewTests.test_invalid_threshold_and_row_types) ... ok
+test_missing_provenance_is_flagged (test_engine.ReviewTests.test_missing_provenance_is_flagged) ... ok
+test_no_flags_does_not_mean_verified (test_engine.ReviewTests.test_no_flags_does_not_mean_verified) ... ok
+test_numeric_and_text_context_normalization (test_engine.ReviewTests.test_numeric_and_text_context_normalization) ... ok
+test_review_needs_reason_and_preserves_raw (test_engine.ReviewTests.test_review_needs_reason_and_preserves_raw) ... ok
+test_threshold_sensitivity (test_engine.ReviewTests.test_threshold_sensitivity) ... ok
+test_unknown_conditions_never_equal_unknown (test_engine.ReviewTests.test_unknown_conditions_never_equal_unknown) ... ok
+test_unknown_measurement_kind_prevents_a_disagreement_conclusion (test_engine.ReviewTests.test_unknown_measurement_kind_prevents_a_disagreement_conclusion) ... ok
+test_demo_analyze_and_export (test_server.ServerTests.test_demo_analyze_and_export) ... ok
+test_empty_and_large_requests_rejected (test_server.ServerTests.test_empty_and_large_requests_rejected) ... ok
+test_errors_are_actionable (test_server.ServerTests.test_errors_are_actionable) ... ok
+test_home_and_all_assets (test_server.ServerTests.test_home_and_all_assets) ... ok
+test_host_and_cross_origin_rejected (test_server.ServerTests.test_host_and_cross_origin_rejected) ... ok
+test_no_file_traversal_or_private_sources (test_server.ServerTests.test_no_file_traversal_or_private_sources) ... ok
+
+----------------------------------------------------------------------
+Ran 32 tests in 0.775s
+
+OK

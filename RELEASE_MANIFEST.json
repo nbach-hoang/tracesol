@@ -1,0 +1,231 @@
+{
+  "project": "TraceSol",
+  "version": "1.0.0",
+  "files": [
+    {
+      "path": ".gitattributes",
+      "bytes": 58,
+      "sha256": "d26cbce2b692bbfa7b3c6278f197b8149144c18b5ada556e7ac34080e0c6ea6c"
+    },
+    {
+      "path": ".gitignore",
+      "bytes": 127,
+      "sha256": "a2abcb05eb21347425fb7766bd52e15fd704a143ebd49bedc78ceb6fc51e79aa"
+    },
+    {
+      "path": "app.py",
+      "bytes": 5330,
+      "sha256": "f506418ebf3420eefbfa22fb0f6a34e6b2086009a8b6f601f54b5cf5bf6603f9"
+    },
+    {
+      "path": "data/demo.csv",
+      "bytes": 2109,
+      "sha256": "22188ae60d9dfdb53d8d120267dfcdf95a173b73dfec4fb3debc748e38a02aa3"
+    },
+    {
+      "path": "data/template.csv",
+      "bytes": 124,
+      "sha256": "a4b462ee2cf2f9b03b2f16309a062945462afddb4c52e1bd40b836bcacbe5636"
+    },
+    {
+      "path": "docs/CREDITS.md",
+      "bytes": 2646,
+      "sha256": "c9207e1a04b45e4d7ab6e1ac94c93e68e225d1b024d2f61f26ae7215b886e74b"
+    },
+    {
+      "path": "docs/IMPROVEMENTS.md",
+      "bytes": 1997,
+      "sha256": "1b90bebbc62ca99156271cb67f07a8f28188e368d01f27f9310b2950894ffd57"
+    },
+    {
+      "path": "docs/METHODS.md",
+      "bytes": 5959,
+      "sha256": "2774f4362f9ab4d5acfc8c812aef5b8b25ec61c01ce2d276fd7c04dbd52b7253"
+    },
+    {
+      "path": "docs/REQUIREMENTS.md",
+      "bytes": 3878,
+      "sha256": "e7b50779de5cb64c75e0f9cc7649e05ade0c33a3dccecd78011715e0c16fffb4"
+    },
+    {
+      "path": "docs/VALIDATION.md",
+      "bytes": 4408,
+      "sha256": "e8a3ef2f93c95cc5a6ed23f6dca46dfd8c55d54f20545a518545b7878cfdcdbc"
+    },
+    {
+      "path": "LICENSE",
+      "bytes": 1072,
+      "sha256": "e894bd7b4f2b4ea45e44ac55f1aab0a2dcb45ce1c98052099fa8ecafd47d43e0"
+    },
+    {
+      "path": "output/browser-qa.json",
+      "bytes": 1684,
+      "sha256": "440ded601288367bb58f2553dc9f415294b17c0c558680bb75cbc06ab4208238"
+    },
+    {
+      "path": "output/demo-audit.json",
+      "bytes": 26928,
+      "sha256": "2dad00c61ca83fa450cdb2135f5f5d5b453a87f014bb968897291f947fe0cac2"
+    },
+    {
+      "path": "output/tracesol-audit.json",
+      "bytes": 26991,
+      "sha256": "5b8a4ed4cd2a9981f6f2e4595155bb2d72412c6ce1408ba16f84acc6c64a1553"
+    },
+    {
+      "path": "output/tracesol-review.html",
+      "bytes": 11886,
+      "sha256": "60841f7c2af6ad3ca1a5a4709d710ee1560e143e300ae791d13353f197ce28e8"
+    },
+    {
+      "path": "output/tracesol-reviewed-evidence.csv",
+      "bytes": 4875,
+      "sha256": "f013c0eaede6a1644caf64fa9e5668250b49caac1d980bd7ae82f5ebef97646c"
+    },
+    {
+      "path": "output/unittest-results.txt",
+      "bytes": 3727,
+      "sha256": "bb651cdf3194e754d5810eb1e5fd8cd1b435f291d60d8018e98fae4afb6fd575"
+    },
+    {
+      "path": "README.md",
+      "bytes": 7748,
+      "sha256": "7949ffa02b19eedfc416151617dfee37c5bb460277a03c6b4f97f5bb60a57b59"
+    },
+    {
+      "path": "requirements.txt",
+      "bytes": 150,
+      "sha256": "8b97e1443865198698725aa47477a024fd6905d211da693a20481f6908953de2"
+    },
+    {
+      "path": "scripts/browser_qa.cjs",
+      "bytes": 7739,
+      "sha256": "33a2db2cdd6258aa447b995005df3e061aa725cb8dd69721c409ab3921dcf0ba"
+    },
+    {
+      "path": "scripts/capture_cover.cjs",
+      "bytes": 711,
+      "sha256": "094c48040a223afeae58316c0101cebd9f81dd5adbf1d8035f3f1ac561dd0a61"
+    },
+    {
+      "path": "scripts/make_brief.py",
+      "bytes": 6177,
+      "sha256": "ffac6d57bb6eab20e69d798b2863bf89094e6dd6b307179b1173560344189772"
+    },
+    {
+      "path": "scripts/package_release.py",
+      "bytes": 1567,
+      "sha256": "2a7e86894fa3c5121b8c2cfe90615ab326041a96c1493392136dd44ae914aeef"
+    },
+    {
+      "path": "Start-TraceSol.ps1",
+      "bytes": 1649,
+      "sha256": "427fa06909a2e053bfdef1c327cca969ec70ebf4028b6dc809cff54c59add553"
+    },
+    {
+      "path": "START_HERE.html",
+      "bytes": 2818,
+      "sha256": "6a7a3da94dcff8ef7749792f2e1b720ba0ba11fbcda74d4e49299c350f252bcf"
+    },
+    {
+      "path": "START_TRACESOL.cmd",
+      "bytes": 114,
+      "sha256": "e1feb4e2994d3bd448c7fe0a7ceeae68a187dcf5882102e52a9f93b1253117e9"
+    },
+    {
+      "path": "submission/cover.html",
+      "bytes": 2610,
+      "sha256": "a37be0f6e6d535194dc16a69c6a68f3710ba26a0e7975bc2305c94ece854f5b4"
+    },
+    {
+      "path": "submission/DEVPOST.md",
+      "bytes": 6252,
+      "sha256": "3778072e0f09eb89b4e3635dc9dd0ad4c283d36d83bc55b186579b5201e96729"
+    },
+    {
+      "path": "submission/FINAL_CHECKLIST.md",
+      "bytes": 2146,
+      "sha256": "7df811c513f2290e11a1eb3ac8c3ab0516a2a6053db99ea4b6c83ab051a53e8e"
+    },
+    {
+      "path": "submission/JUDGE_WALKTHROUGH.md",
+      "bytes": 2773,
+      "sha256": "fc8cf53ecfae90f32ce6a821be4220354f114f2d7537c1fe238eab5640442c05"
+    },
+    {
+      "path": "submission/SCREENSHOT_CAPTIONS.md",
+      "bytes": 1058,
+      "sha256": "7f3fc2b4d26d6fc590efcec89109007ae2c93e58a8d28a988d4498b56e6ce45a"
+    },
+    {
+      "path": "submission/screenshots/00-tracesol-cover.png",
+      "bytes": 198440,
+      "sha256": "e1646fc7012fae05a7fbd3328f58ef95f513f0c7b864b18e6c0d631100f70bf0"
+    },
+    {
+      "path": "submission/screenshots/01-evidence-workbench.png",
+      "bytes": 155957,
+      "sha256": "5296a7a778c55a10bec195441602a27ba8311a73e535546ed4c036e1d716d211"
+    },
+    {
+      "path": "submission/screenshots/02-condition-comparisons.png",
+      "bytes": 149535,
+      "sha256": "4e7600007575757c039480a6ef298fc7a5abcce9491f84f1ceb8845e95e948fb"
+    },
+    {
+      "path": "submission/screenshots/03-review-decisions.png",
+      "bytes": 91972,
+      "sha256": "7df7da6a356204e0c139dfc2ac4ee99525bd8278c5f8a569867f6bb5911a516e"
+    },
+    {
+      "path": "submission/screenshots/04-mobile-workbench.png",
+      "bytes": 128787,
+      "sha256": "6e7632d7529decc14f1456ed042d2d264825e1d94a107e17a52066174cee6ce0"
+    },
+    {
+      "path": "submission/TraceSol_Project_Brief.pdf",
+      "bytes": 190667,
+      "sha256": "d3afd49f6cbdd99fb74765f8f2799269244dfef8e1d87b837a24ffbde3b41a92"
+    },
+    {
+      "path": "tests/test_engine.py",
+      "bytes": 8977,
+      "sha256": "c2ce5c82359eae075d87b4e0b5c7d1318ebc2b0ffea2b742181b085c4e098940"
+    },
+    {
+      "path": "tests/test_server.py",
+      "bytes": 2875,
+      "sha256": "13c7e5e11b92e2b35447fd3143b8c5af141cd1648e3ceaf6facfb06b09bb9537"
+    },
+    {
+      "path": "tracesol/__init__.py",
+      "bytes": 93,
+      "sha256": "fe6a81eee7b87cd4d152a8ec653872cc5d0719ae671366351a68746a2b6cc3ce"
+    },
+    {
+      "path": "tracesol/engine.py",
+      "bytes": 12934,
+      "sha256": "2ff0d212a5a7fb18804fc798810a2292681e7d939a336153bc61df33d2319b75"
+    },
+    {
+      "path": "web/app.js",
+      "bytes": 32029,
+      "sha256": "155dc07b4d47316996899b53c22b21ada19b805f43f7c6da93074e0c1ca6492d"
+    },
+    {
+      "path": "web/favicon.svg",
+      "bytes": 263,
+      "sha256": "ca94ef4048796c9deacd12e6fe6937453c1ecde4ffa5b720a203ac27c8571026"
+    },
+    {
+      "path": "web/index.html",
+      "bytes": 7362,
+      "sha256": "1db18fb278abacf755d0b6cd188af4a2054003e11d18858d17252f49767075e2"
+    },
+    {
+      "path": "web/style.css",
+      "bytes": 17185,
+      "sha256": "d6721da451912067c84aa0621e377866710f6468d3aff3221f25d2441ef6aae1"
+    }
+  ]
+}

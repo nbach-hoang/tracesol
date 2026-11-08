@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+.venv/
+.env
+*.log
+output/browser-downloads/
+output/qa-*
+output/brief-render/
+node_modules/
+.idea/
+dist/

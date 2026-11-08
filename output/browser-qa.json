@@ -1,0 +1,66 @@
+{
+  "checked_at": "2026-11-08T08:15:07.802Z",
+  "browser": "msedge",
+  "checks": [
+    {
+      "name": "Demo metrics: 12 records, 10 converted, 2 disagreeing pairs",
+      "status": "passed"
+    },
+    {
+      "name": "Threshold sensitivity and exact-boundary behavior",
+      "status": "passed"
+    },
+    {
+      "name": "Search, empty-state, invalid-record filter",
+      "status": "passed"
+    },
+    {
+      "name": "Decision requires a reason and appears in review log",
+      "status": "passed"
+    },
+    {
+      "name": "Workspace export preserves review decisions",
+      "status": "passed"
+    },
+    {
+      "name": "Editing rechecks comparisons and resets the edited decision",
+      "status": "passed"
+    },
+    {
+      "name": "Reopening workspace restores original dataset and recalculates",
+      "status": "passed"
+    },
+    {
+      "name": "JSON audit export downloads successfully",
+      "status": "passed"
+    },
+    {
+      "name": "CSV audit export downloads successfully",
+      "status": "passed"
+    },
+    {
+      "name": "HTML audit export downloads successfully",
+      "status": "passed"
+    },
+    {
+      "name": "Malformed import produces an actionable error",
+      "status": "passed"
+    },
+    {
+      "name": "User-supplied markup is displayed as text, not executed",
+      "status": "passed"
+    },
+    {
+      "name": "Responsive layouts: 1440, 1024, 768, 390 pixels, no page overflow",
+      "status": "passed"
+    },
+    {
+      "name": "Methods and scientific limitations available in app",
+      "status": "passed"
+    },
+    {
+      "name": "No browser script errors or third-party network requests",
+      "status": "passed"
+    }
+  ]
+}

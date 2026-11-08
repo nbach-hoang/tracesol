@@ -1,0 +1,2 @@
+# Python 3.10 or later. The application uses only the Python standard library.
+# No pip packages, cloud services, accounts, or API keys are required.

@@ -1,0 +1,13 @@
+record_id,compound,form,value,unit,mw_g_mol,solvent,ph,temperature_c,method,measurement_kind,source,evidence,source_locator
+Q-01,Quercetin,neutral anhydrous,0.30224,mg/L,302.24,water,7,25,shake-flask,equilibrium,DEMO-A,"Synthetic example: 0.30224 mg/L at pH 7 and 25 C in water.",Example table 1 row 1
+Q-02,Quercetin,neutral anhydrous,1,uM,302.24,water,7,25,shake-flask,equilibrium,DEMO-B,"Synthetic example: 1 uM at pH 7 and 25 C in water.",Example table 2 row 1
+Q-03,Quercetin,neutral anhydrous,3.0224,mg/L,302.24,water,7,25,shake-flask,equilibrium,DEMO-C,"Synthetic example: 3.0224 mg/L at pH 7 and 25 C in water.",Example table 3 row 1
+Q-04,Quercetin,neutral anhydrous,100,uM,302.24,water,8,25,shake-flask,equilibrium,DEMO-D,"Synthetic example: 100 uM at pH 8 and 25 C in water.",Example table 4 row 1
+Q-05,Quercetin,neutral anhydrous,2,uM,302.24,water,,25,shake-flask,equilibrium,DEMO-E,"Synthetic example: 2 uM; pH unreported.",Example table 5 row 1
+C-01,Caffeine,neutral anhydrous,10,mM,194.19,water,7,25,shake-flask,equilibrium,DEMO-F,"Synthetic example: 10 mM at pH 7 and 25 C in water.",Example table 6 row 1
+C-02,Caffeine,neutral anhydrous,1.9419,g/L,194.19,water,7,25,shake-flask,equilibrium,DEMO-F,"Synthetic example: 10 mM at pH 7 and 25 C in water.",Example table 6 row 1 repeated
+N-01,Naringenin,neutral anhydrous,0.1,mg/L,,water,7,25,shake-flask,equilibrium,DEMO-G,"Synthetic example: 0.1 mg/L; molecular weight not supplied.",Example table 7 row 1
+R-01,Rutin,neutral anhydrous,-2,mg/L,610.52,water,7,25,shake-flask,equilibrium,DEMO-H,"Synthetic example: negative concentration intentionally entered to demonstrate validation.",Example table 8 row 1
+K-01,Kaempferol,neutral anhydrous,-5,logS,286.24,water,7,25,shake-flask,equilibrium,DEMO-I,"Synthetic example: log10 of concentration in mol/L is -5.",Example table 9 row 1
+A-01,Apigenin,neutral anhydrous,5,uM,270.24,water,7,25,shake-flask,equilibrium,,,
+Q-06,Quercetin,dihydrate,10,uM,338.27,water,7,25,shake-flask,equilibrium,DEMO-J,"Synthetic example: 10 uM for the dihydrate; keep separate from anhydrous records.",Example table 10 row 1
